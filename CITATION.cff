@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using the SERVE implementation."
+title: "SERVE: Semantic Evidence from Return Verification for LiDAR Segmentation"
+authors:
+  - family-names: Gao
+    given-names: Jinze
+  - family-names: Ma
+    given-names: Jie
+type: software
+repository-code: "https://github.com/JasonGao1010/SERVE"
+license: MIT
